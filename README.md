@@ -1,3 +1,4 @@
-#This is just a read me file
+Practice git
 
-And also this is about section
+1st plain text
+
