@@ -1,7 +1,6 @@
-Practice git
+## Practice git
 
-1st plain text
+# 1st plain text
 
-2nd extra text
-<br>
-This is for reading purpose
+# 2nd extra text
+* This is for reading purpose
